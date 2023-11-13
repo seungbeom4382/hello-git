@@ -18,7 +18,10 @@ public class Main {
 		new Bird().fly();
 		new Monkey().walk();
 	}
-	
+
+	public vod abc() {
+
+	}
 	public void test() {
 		System.out.println("Main#test");
 		System.out.println("Main#test");
