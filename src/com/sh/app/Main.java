@@ -6,7 +6,7 @@ import com.sh.app.animal.Snake;
 
 public class Main {
 	public static void main(String args[]) {
-		System.out.println("HELLO WORLD!");
+		System.out.println("HELLO WORLD!"); // ctrl+shift+x 대문자로 수정
 		System.out.println("HELLO GIT");
 
 		new Dog().bark();
