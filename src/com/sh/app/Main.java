@@ -19,7 +19,7 @@ public class Main {
 		new Monkey().walk();
 	}
 
-	public vod abc() {
+	public void abc() {
 
 	}
 	public void test() {
