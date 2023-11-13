@@ -15,4 +15,8 @@ public class Main {
 		new Snake().bite();
 		new Bird().fly();
 	}
+	
+	public void test() {
+		System.out.println("Main#test");
+	}
 }
